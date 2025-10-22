@@ -42,7 +42,7 @@ This system streamlines the evaluation process by allowing users to submit PCR f
 ---
 
 ## 🗄️ Database Structure  
-**Database Name:** `group3_db`  
+**Database Name:** `apps_pcc_db`  
 
 Main tables:
 - `users` — stores account details and roles (admin, faculty, staff)  
@@ -55,5 +55,6 @@ Main tables:
 ---
 
 ## 📂 Project Folder Structure  
+
 
 
